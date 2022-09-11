@@ -1,5 +1,6 @@
-### CRUD APIs in Goplang
+### CRUD APIs in Golang
 
+- Go
 - GORM
 - MySQL
 - MUX
